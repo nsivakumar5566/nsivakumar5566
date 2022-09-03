@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">I am expertise in Angular UI Development and wanted to work in a challenging environment that encourages learning and exposure to new ideas to stimulate professional and personal growth.</p>
+<p align="justify">I am expertise in Web Development and wanted to work in a challenging environment that encourages learning and exposure to new ideas to stimulate professional and personal growth.</p>
 
 <br>
 <a href="https://www.linkedin.com/in/nsivakumar5566/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
